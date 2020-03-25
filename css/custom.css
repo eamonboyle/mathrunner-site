@@ -1,0 +1,69 @@
+body, #header, #subscribe {
+    background: #00528c;
+}
+
+#header h3 {
+    color: #FFF;
+}
+
+p {
+    color: #FFF;
+}
+
+.btn-trans {
+    color: #FFF;
+}
+
+.btn-trans:hover {
+    background: #013c66;
+    color: #FFF;
+}
+
+h2 {
+    color: #FFF;
+}
+
+.contact-form input, .contact-form textarea {
+    border-radius: 5px;
+}
+
+.blue-btn, .contact-form .form-send button {
+    background: #047cd1!important;
+    border: 1px solid #047cd1!important;
+}
+
+.blue-btn:hover, .contact-form .form-send button:hover {
+    background: #0088e8!important;
+    border: 1px solid #047cd1!important;
+}
+
+#subscribe h3, #contact h3 {
+    color: #FFF;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.facebook-link, .facebook-link:hover, .facebook-link:active, .facebook-link:visited {
+    color: #FFF!important;
+}
+
+ul {
+    margin: 0 0 0 18px;
+    padding: 0;
+}
+
+li {
+    color: #FFF;
+}
+
+a {
+    color: #FFF;
+}
+
+a:hover {
+    color: #999;
+}
+
+#copyrights a {
+ color: #047cd1;   
+}
